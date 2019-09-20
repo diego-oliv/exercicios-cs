@@ -1,0 +1,11 @@
+C:\Users\35883602800\Exercícios C#\Tabuada5\bin\Debug\netcoreapp2.2\Tabuada5.deps.json
+C:\Users\35883602800\Exercícios C#\Tabuada5\bin\Debug\netcoreapp2.2\Tabuada5.runtimeconfig.json
+C:\Users\35883602800\Exercícios C#\Tabuada5\bin\Debug\netcoreapp2.2\Tabuada5.runtimeconfig.dev.json
+C:\Users\35883602800\Exercícios C#\Tabuada5\bin\Debug\netcoreapp2.2\Tabuada5.dll
+C:\Users\35883602800\Exercícios C#\Tabuada5\bin\Debug\netcoreapp2.2\Tabuada5.pdb
+C:\Users\35883602800\Exercícios C#\Tabuada5\obj\Debug\netcoreapp2.2\Tabuada5.csprojAssemblyReference.cache
+C:\Users\35883602800\Exercícios C#\Tabuada5\obj\Debug\netcoreapp2.2\Tabuada5.csproj.CoreCompileInputs.cache
+C:\Users\35883602800\Exercícios C#\Tabuada5\obj\Debug\netcoreapp2.2\Tabuada5.AssemblyInfoInputs.cache
+C:\Users\35883602800\Exercícios C#\Tabuada5\obj\Debug\netcoreapp2.2\Tabuada5.AssemblyInfo.cs
+C:\Users\35883602800\Exercícios C#\Tabuada5\obj\Debug\netcoreapp2.2\Tabuada5.dll
+C:\Users\35883602800\Exercícios C#\Tabuada5\obj\Debug\netcoreapp2.2\Tabuada5.pdb

@@ -29,7 +29,7 @@ namespace MateODragao {
                         guerreiro.Forca = 2;
                         guerreiro.Agilidade = 2;
                         guerreiro.Inteligencia = 4;
-                        guerreiro.Vida = 5000;
+                        guerreiro.Vida = 50;
 
                         Dragao dragao = new Dragao();
                         dragao.Nome = "Alduin";

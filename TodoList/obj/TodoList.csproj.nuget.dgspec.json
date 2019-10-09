@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\35883602800\\exercicios-cs\\Menu Continha\\Menu Continha.csproj": {}
+    "C:\\Users\\35883602800\\Desktop\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\35883602800\\exercicios-cs\\Menu Continha\\Menu Continha.csproj": {
+    "C:\\Users\\35883602800\\Desktop\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\35883602800\\exercicios-cs\\Menu Continha\\Menu Continha.csproj",
-        "projectName": "Menu Continha",
-        "projectPath": "C:\\Users\\35883602800\\exercicios-cs\\Menu Continha\\Menu Continha.csproj",
+        "projectUniqueName": "C:\\Users\\35883602800\\Desktop\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj",
+        "projectName": "TodoList",
+        "projectPath": "C:\\Users\\35883602800\\Desktop\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj",
         "packagesPath": "C:\\Users\\35883602800\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\35883602800\\exercicios-cs\\Menu Continha\\obj\\",
+        "outputPath": "C:\\Users\\35883602800\\Desktop\\2s2019-t1\\Exercicios\\TodoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

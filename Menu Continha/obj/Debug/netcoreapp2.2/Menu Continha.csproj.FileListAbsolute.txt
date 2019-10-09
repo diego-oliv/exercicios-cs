@@ -9,3 +9,14 @@ C:\Users\35883602800\Exercícios C#\Menu Continha\obj\Debug\netcoreapp2.2\Menu C
 C:\Users\35883602800\Exercícios C#\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.AssemblyInfo.cs
 C:\Users\35883602800\Exercícios C#\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.dll
 C:\Users\35883602800\Exercícios C#\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.pdb
+C:\Users\35883602800\exercicios-cs\Menu Continha\bin\Debug\netcoreapp2.2\Menu Continha.deps.json
+C:\Users\35883602800\exercicios-cs\Menu Continha\bin\Debug\netcoreapp2.2\Menu Continha.runtimeconfig.json
+C:\Users\35883602800\exercicios-cs\Menu Continha\bin\Debug\netcoreapp2.2\Menu Continha.runtimeconfig.dev.json
+C:\Users\35883602800\exercicios-cs\Menu Continha\bin\Debug\netcoreapp2.2\Menu Continha.dll
+C:\Users\35883602800\exercicios-cs\Menu Continha\bin\Debug\netcoreapp2.2\Menu Continha.pdb
+C:\Users\35883602800\exercicios-cs\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.csprojAssemblyReference.cache
+C:\Users\35883602800\exercicios-cs\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.csproj.CoreCompileInputs.cache
+C:\Users\35883602800\exercicios-cs\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.AssemblyInfoInputs.cache
+C:\Users\35883602800\exercicios-cs\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.AssemblyInfo.cs
+C:\Users\35883602800\exercicios-cs\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.dll
+C:\Users\35883602800\exercicios-cs\Menu Continha\obj\Debug\netcoreapp2.2\Menu Continha.pdb

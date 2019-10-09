@@ -18,19 +18,17 @@ namespace ByteBank
             
             Cliente cliete = new Cliente (nome, cpf, email);
 
+            bool senhaOk =  false;
+
             do {
                 Console.Write("Digite sua senha: ");
                 string senha = Console.ReadLine();
-                bool senhaOk = cliente1.TrocarSenha(senha);
                 if (!senhaOk){
                     System.Console.WriteLine("Senha não atende aos requisitos");
                 } else {
                     System.Console.WriteLine("Senha trocada com sucesso");
                 }
             } while(senhaOk);
-        }
-
-
-        
+        }    
     }
 }

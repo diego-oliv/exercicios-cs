@@ -42,6 +42,7 @@ namespace TodoList
                         break;
                     case 3:
                         Console.WriteLine("Tchau!");
+                        SaveList(todoList, @filePath);
                         break;
                     default:
                         Console.WriteLine("Opção Inválida");
@@ -129,14 +130,16 @@ namespace TodoList
         }
         static void SaveList(List<TodoItem> lista, string path){
             List<string> linhas = new List<string>();
+            linhas.Add("Titulo,nota");
             foreach (TodoItem item in lista){
                 string titulo = "\"" + item.Titulo + "\"";
                 string nota = "\"" + item.Nota + "\"";
                 linhas.Add(titulo + "," + nota);
             }
-            string tentarNovamente = "";
+            string tentarNovamente = "n";
             do{
                 try {
+                    tentarNovamente = "n";
                     File.WriteAllLines(@path,linhas);
                 } catch (IOException e){
                     System.Console.WriteLine("Erro na leitura do arquivo.");

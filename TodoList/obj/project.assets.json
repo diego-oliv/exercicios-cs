@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\35883602800\\Desktop\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj",
+      "projectUniqueName": "C:\\Users\\35883602800\\exercicios-cs\\TodoList\\TodoList.csproj",
       "projectName": "TodoList",
-      "projectPath": "c:\\Users\\35883602800\\Desktop\\2s2019-t1\\Exercicios\\TodoList\\TodoList.csproj",
+      "projectPath": "C:\\Users\\35883602800\\exercicios-cs\\TodoList\\TodoList.csproj",
       "packagesPath": "C:\\Users\\35883602800\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\35883602800\\Desktop\\2s2019-t1\\Exercicios\\TodoList\\obj\\",
+      "outputPath": "C:\\Users\\35883602800\\exercicios-cs\\TodoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

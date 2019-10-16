@@ -1,0 +1,11 @@
+C:\Users\35883602800\exercicios-cs\Escola de Rap\obj\Debug\netcoreapp2.2\Escola de Rap.csprojAssemblyReference.cache
+C:\Users\35883602800\exercicios-cs\Escola de Rap\obj\Debug\netcoreapp2.2\Escola de Rap.csproj.CoreCompileInputs.cache
+C:\Users\35883602800\exercicios-cs\Escola de Rap\obj\Debug\netcoreapp2.2\Escola de Rap.AssemblyInfoInputs.cache
+C:\Users\35883602800\exercicios-cs\Escola de Rap\obj\Debug\netcoreapp2.2\Escola de Rap.AssemblyInfo.cs
+C:\Users\35883602800\exercicios-cs\Escola de Rap\bin\Debug\netcoreapp2.2\Escola de Rap.deps.json
+C:\Users\35883602800\exercicios-cs\Escola de Rap\bin\Debug\netcoreapp2.2\Escola de Rap.runtimeconfig.json
+C:\Users\35883602800\exercicios-cs\Escola de Rap\bin\Debug\netcoreapp2.2\Escola de Rap.runtimeconfig.dev.json
+C:\Users\35883602800\exercicios-cs\Escola de Rap\bin\Debug\netcoreapp2.2\Escola de Rap.dll
+C:\Users\35883602800\exercicios-cs\Escola de Rap\bin\Debug\netcoreapp2.2\Escola de Rap.pdb
+C:\Users\35883602800\exercicios-cs\Escola de Rap\obj\Debug\netcoreapp2.2\Escola de Rap.dll
+C:\Users\35883602800\exercicios-cs\Escola de Rap\obj\Debug\netcoreapp2.2\Escola de Rap.pdb

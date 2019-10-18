@@ -4,11 +4,14 @@ using Escola_de_Rap.Interfaces;
 
 namespace Escola_de_Rap
 {
-    enum FormacaoEnum : int {
+    enum FormacaoEnum : uint {
         TRIO = 3,
         QUARTETO
     }
-    enum CategoriaEnum : int {
+    enum Instrumentos Enum : uint {
+         
+    }
+    enum CategoriaEnum : uint {
         HARMONIA,
         PERCUSSAO,
         MELODIA

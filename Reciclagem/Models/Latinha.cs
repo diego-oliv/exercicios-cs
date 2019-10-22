@@ -1,7 +1,7 @@
 using Reciclagem.Interfaces;
 namespace Reciclagem.Models
 {
-    public class Latinha
+    public class Latinha : Lixos, IMetal
     {
         public bool DescartarMetal()
             {
